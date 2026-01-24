@@ -1,6 +1,9 @@
 
 # SolarPath
 This simple App is to designed to show the Azimuth, Shadow and Altitude of the Sun derived from its GPS location.
+## TestFlight Version 3.0 Build 5 - submitted 24 Jan 2026     
+**Info.plist changed to "App uses Non-Exempt Encryption / Boolean /NO**   
+
 
 ## TestFlight Version 3.0 Build 4 - submitted 24 Jan 2026   
 Initial simple project rebuild so that I can submit it again.    
