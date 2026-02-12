@@ -1,6 +1,15 @@
 
 # SolarPath
-This simple App is to designed to show the Azimuth, Shadow and Altitude of the Sun derived from its GPS location.
+
+## TestFlight Version 2.0 Build 3 - 12 Feb 2026    
+NEW version of Solar Path. This is a Clone of Moon Path using Suncalc.   
+This means that SP and MP look very similiar.    
+Hence the new version and build number.    
+Only remaining issue is the accuracy of Solar Noon time.   
+
+
+
+
 ## TestFlight Version 3.0 Build 5 - submitted 24 Jan 2026     
 **Info.plist changed to "App uses Non-Exempt Encryption / Boolean /NO**   
 
