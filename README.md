@@ -1,5 +1,11 @@
-
 # SolarPath
+
+
+## TestFlight Version 4.0 Build 1 - 13 Feb 2026     
+Fresh build with same build number as Moon Path.   
+These should match data and display and work as a pair.   
+Note default in Location Manager of Greenwich Observatory.   
+SEE NOTES for other info.   
 
 
 ## TestFlight Version 2.0 Build 4 - 13 Feb 2026  
