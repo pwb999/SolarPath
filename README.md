@@ -6,6 +6,8 @@ Fresh build with same build number as Moon Path.
 These should match data and display and work as a pair.   
 Note default in Location Manager of Greenwich Observatory.   
 SEE NOTES for other info.   
+**Xcode - stored under Downloads/SP/SP/SP Watch App** 
+![image](https://github.com/user-attachments/assets/4c43d565-5c0b-498c-961d-0cdedd80defe)
 
 
 ## TestFlight Version 2.0 Build 4 - 13 Feb 2026  
