@@ -1,6 +1,22 @@
 
 # SolarPath
 
+
+## TestFlight Version 2.0 Build 4 - 13 Feb 2026  
+Added a change to sun icon from orange to grey when Altitude <0.   
+Added Az sunrise and sunset values to their red/green strokes.     
+Added Orange Refresh buttons to each tab.   
+Removed the time from graphic display.   
+Altered Solar Noon display.   
+Added 360 spinner animation to all refresh buttons (see Notes for Code).    
+Changed the titles + button to Z stack view so the titles are always centred.    
+Note the graphic rescales dynamically according to Screen Size.   
+
+
+
+
+
+
 ## TestFlight Version 2.0 Build 3 - 12 Feb 2026    
 NEW version of Solar Path. This is a Clone of Moon Path using Suncalc.   
 This means that SP and MP look very similiar.    
