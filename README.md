@@ -1,4 +1,11 @@
 # SolarPath
+<img width="1260" height="594" alt="image" src="https://github.com/user-attachments/assets/c3834934-1551-4a54-b0f5-5dd3dbe8e9f3" />
+
+## TestFlight Version 4.0 Build 3 or perhaps 4 - 19 May 2026  
+This release needs to be checked and then uploaded to Apple App Store and remain the old SP offering.    
+It should look identical to the MP and called Arcus Solis.     
+
+
 
 
 ## TestFlight Version 4.0 Build 1 - 13 Feb 2026     
