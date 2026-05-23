@@ -1,5 +1,12 @@
-# SolarPath
+# Arcus Solis
 <img width="1260" height="594" alt="image" src="https://github.com/user-attachments/assets/c3834934-1551-4a54-b0f5-5dd3dbe8e9f3" />
+
+## Distribution Version 4.0 Build 6 as of 23 May 2026  
+This build now has the Bundle Name set to Arcus Solis. Also Info.plist changed with this new name.   
+**Changed name in Three places.**     
+So now the app name is Arcus Solis which is displayed on the Watch. This matches the App Content Project name.     
+Had to submit a video to get Apple Reviewers to understand what the app is about.     
+
 
 ## TestFlight Version 4.0 Build 3 or perhaps 4 - 19 May 2026  
 This release needs to be checked and then uploaded to Apple App Store and remain the old SP offering.    
